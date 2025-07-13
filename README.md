@@ -12,7 +12,7 @@
   <li>Desenvolvimento de exploits e automações em pentest</li>
   <li>Obfuscação avançada e técnicas stealth (rootkits, fileless payloads)</li>
 </ul>
-
+<br><br>
 <h3 align="center">📚 Estudando</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"           alt="C"      title="C"      width="60" height="50" />
