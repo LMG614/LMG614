@@ -5,13 +5,12 @@
   <a href="mailto:lmg@bhozsmp.com">✉️ Contato</a>
 </p>
 
-<h2>🔍 Analista de Segurança da Informação</h2>
+<h2>🔍 Pesquisador de Segurança</h2>
 <ul>
   <li>Segurança ofensiva e análise de vulnerabilidades</li>
   <li>Programação de baixo nível e engenharia reversa</li>
   <li>Desenvolvimento de exploits e automações em pentest</li>
   <li>Obfuscação avançada e técnicas stealth (rootkits, fileless payloads)</li>
-  <li>Regras de firewall</li>
 </ul>
 
 <h3 align="center">📚 Estudando</h3>
