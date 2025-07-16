@@ -18,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"           alt="C"      title="C"      width="60" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"    title="C++"   width="60" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python" title="Python" width="60" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"         alt="Java"   title="Java"   width="60" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="60" height="50" />
 </p>
 
@@ -27,6 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/lua/lua-original.svg" alt="Lua" title="Lua" width="55" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/go/go-original.svg" alt="Golang" title="Golang" width="55" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"         alt="Java"   title="Java"   width="60" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg" alt="Golang" title="Golang" width="55" height="50" />
+  <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png" alt="Golang" title="Golang" width="55" height="50" />
 </p>
 <br><br>
 <div align="center">
