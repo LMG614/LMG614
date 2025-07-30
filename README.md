@@ -15,7 +15,7 @@
 <br><br>
 <h3 align="center">📚 Estudando</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg"           alt="C"      title="C"      width="49" height="50" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/c_original_logo_icon_146611.png"           alt="C"      title="C"      width="49" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"    title="C++"   width="60" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python" title="Python" width="60" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="60" height="50" />
