@@ -30,10 +30,10 @@ cat <<EOF
 ║                                           ║
 ║ Linguagens:                               ║
 ║   • C | C++ | Python | Bash               ║
-║   • MySQL | Go | Kotlin | ASM | Java      ║
+║   • Go | Kotlin | ASM | Java              ║
 ║                                           ║
 ║ Editores:                                 ║
-║   • VSCode & Visual Studio                ║
+║   • Visual Studio code                    ║
 ║                                           ║
 ║ Db:                                       ║
 ║   • MySQL | SQLite | MongoDB              ║
