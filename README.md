@@ -5,13 +5,8 @@
   <a href="mailto:lmg@bhozsmp.com">✉️ Contato</a>
 </p>
 
-<h2>🔍 Pesquisador de Segurança</h2>
-<ul>
-  <li>Segurança ofensiva e análise de vulnerabilidades</li>
-  <li>Programação de baixo nível e engenharia reversa</li>
-  <li>Desenvolvimento de exploits e automações em pentest</li>
-  <li>Obfuscação avançada e técnicas stealth (rootkits, fileless payloads)</li>
-</ul>
+<h2 align="center"">🔍 Pesquisador de Segurança</h2>
+<p align="center"">Pentester e pesquisador ofensivo especializado no desenvolvimento de ferramentas personalizadas para auditoria e exploração de vulnerabilidades. Experiência prática em pós-exploração, evasão de EDRs e automação de recon. Realiza avaliações técnicas em ambientes corporativos com abordagem objetiva e alinhada ao propósito do engagement.</p>
 <br><br>
 
 ```bash
