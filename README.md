@@ -62,5 +62,5 @@ EOF
 
 <br><br>
 <p align="center">
-  Quer saber mais? Visite meu <a href="https://bhozsmp.com">portfólio</a>.
+  Quer saber mais? Visite meu <a href="https://lmg.red">portfólio</a>.
 </p>
