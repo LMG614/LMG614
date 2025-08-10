@@ -1,8 +1,8 @@
 <h1 align="center">Olá!👋 Eu sou o LMG</h1>
 
 <p align="center">
-  <a href="https://bhozsmp.com" target="_blank">🌐 Meu portfólio</a> •
-  <a href="mailto:lmg@bhozsmp.com">✉️ Contato</a>
+  <a href="https://lmg.red" target="_blank">🌐 Meu portfólio</a> •
+  <a href="mailto:lmg@lmg.red">✉️ Contato</a>
 </p>
 
 <h2 align="center"">🔍 Pesquisador de Segurança</h2>
