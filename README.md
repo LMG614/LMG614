@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://lmg.red" target="_blank">🌐 Meu portfólio</a> •
-  <a href="mailto:lmg@lmg.red">✉️ Contato</a>
+  <a href="mailto:contato@lmg.red">✉️ Contato</a>
 </p>
 
 <h2 align="center"">🔍 Pesquisador de Segurança</h2>
@@ -41,26 +41,19 @@ EOF
 ```
 
 <br><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMG614&show_icons=true&theme=dracula"
-       alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMG614&layout=compact&langs_count=8&theme=dracula"
-       alt="Top Languages" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LMG614&show_icons=true&hide_rank=true&hide_border=true&theme=dark&icon_color=ffffff" alt="LMG614 GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMG614&layout=compact&theme=dark&hide_border=true&card_width=250&langs_count=5" alt="Top Languages LMG614">
+
 
 <h2 align="center">📂 Projetos</h2>
 <p align="center">
-  <a href="https://github.com/LMG614/PhantomLoad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=buefy"
-         alt="PhantomLoad" />
-  </a>
-  <a href="https://github.com/LMG614/GhostTap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=GhostTap&theme=buefy"
-         alt="GhostTap" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&show_owner=true&hide_border=true&icon_color=ffffff" alt="Projeto PhantomLoad">
 </p>
 
 <br><br>
 <p align="center">
-  Quer saber mais? Visite meu <a href="https://lmg.red">portfólio</a>.
+  <a href="https://lmg.red" title="Meu Portfólio">
+    <img src="https://images.icon-icons.com/651/PNG/512/Icon_Business_Set_00007_A_icon-icons.com_59843.png" alt="Portfólio Logo" width="60" height="60">
+  </a>
 </p>
