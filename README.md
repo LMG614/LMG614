@@ -57,6 +57,6 @@ EOF
 <br><br>
 <p align="center">
   <a href="https://lmg.red" title="Meu Portfólio">
-    <img src="https://images.icon-icons.com/651/PNG/512/Icon_Business_Set_00007_A_icon-icons.com_59843.png" alt="Portfólio Logo" width="60" height="60">
+    <a href="https://github.com/LMG614/PhantomLoad" title="Abrir repositório"><img src="https://images.icon-icons.com/651/PNG/512/Icon_Business_Set_00007_A_icon-icons.com_59843.png" alt="Portfólio Logo" width="60" height="60"></a>
   </a>
 </p>
