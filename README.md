@@ -51,12 +51,8 @@ EOF
 
 <h2 align="center">📂 Projetos</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&hide_border=true&icon_color=ffffff&locale=pt-br" alt="Projeto PhantomLoad">
-</p>
+  <a href="https://github.com/LMG614/PhantomLoad" title="Abrir repositório"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&hide_border=true&icon_color=ffffff&locale=pt-br" alt="Projeto PhantomLoad">
+</a>
 
 <br><br>
-<p align="center">
-  <a href="https://lmg.red" title="Meu Portfólio">
-    <a href="https://github.com/LMG614/PhantomLoad" title="Abrir repositório"><img src="https://images.icon-icons.com/651/PNG/512/Icon_Business_Set_00007_A_icon-icons.com_59843.png" alt="Portfólio Logo" width="60" height="60"></a>
-  </a>
-</p>
+<p align="center"><a href="https://lmg.red" title="Meu Portfólio"><img src="https://images.icon-icons.com/651/PNG/512/Icon_Business_Set_00007_A_icon-icons.com_59843.png" alt="Portfólio Logo" width="60" height="60"></a></p>
