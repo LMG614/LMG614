@@ -9,7 +9,7 @@
 <p align="center"">Pentester e pesquisador ofensivo especializado no desenvolvimento de ferramentas personalizadas para auditoria e exploração de vulnerabilidades. Experiência prática em pós-exploração, evasão de EDRs e automação de recon. Realiza avaliações técnicas em ambientes corporativos com abordagem objetiva e alinhada ao propósito do engagement.</p>
 <br><br>
 <p align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=LMG614&leftColor=000000&rightColor=0f0f0f&type=total&label=Visitantes&style=none" alt="Visitantes">
+  <a href="https://github.com/LMG614"><img src="https://views-counter.vercel.app/badge?pageId=LMG614&leftColor=000000&rightColor=0f0f0f&type=total&label=Visitantes&style=none" alt="Visitantes"></a>
 </p>
 
 ```bash
@@ -46,8 +46,8 @@ EOF
 <br><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LMG614&show_icons=true&hide_rank=true&hide_border=true&theme=dark&icon_color=ffffff&locale=pt-br&count_private=false&hide=issues,contribs&include_all_commits=true" alt="LMG614 GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMG614&layout=compact&theme=dark&hide_border=true&card_width=250&langs_count=6" alt="Top Languages LMG614">
+  <a href="https://github.com/LMG614"><img src="https://github-readme-stats.vercel.app/api?username=LMG614&show_icons=true&hide_rank=true&hide_border=true&theme=dark&icon_color=ffffff&locale=pt-br&count_private=false&hide=issues,contribs&include_all_commits=true" alt="LMG614 GitHub Stats"></a>
+  <a href="https://github.com/LMG614"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMG614&layout=compact&theme=dark&hide_border=true&card_width=250&langs_count=6" alt="Top Languages LMG614"></a>
 
 <h2 align="center">📂 Projetos</h2>
 <p align="center">
