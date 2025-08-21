@@ -53,7 +53,7 @@ EOF
     <img src="https://github-readme-stats.vercel.app/api?username=LMG614&show_icons=true&hide_border=true&theme=dark&icon_color=ffffff&locale=pt-br&count_private=false&hide=issues,contribs" alt="LMG614 GitHub Stats">
   </a>
   <a href="https://github.com/LMG614">
-    <img src="https://github-readme-stats.vercel.app/api?username=LMG614&show_icons=true&hide_border=true&theme=dark&icon_color=ffffff&locale=pt-br&count_private=false&hide=issues,contribs&include_all_commits=true" alt="Top Languages LMG614">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMG614&layout=compact&theme=dark&hide_border=true&langs_count=6&locale=pt-br" alt="Top Languages LMG614">
   </a>
 </p>
 
