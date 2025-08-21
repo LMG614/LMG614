@@ -9,8 +9,10 @@
 <p align="center">Pentester e pesquisador ofensivo especializado no desenvolvimento de ferramentas personalizadas para auditoria e exploração de vulnerabilidades. Experiência prática em pós-exploração, evasão de EDRs e automação de recon. Realiza avaliações técnicas em ambientes corporativos com abordagem objetiva e alinhada ao propósito do engagement.</p>
 
 <p align="center">
-  <a href="https://github.com/LMG614">
+  <a href="">
     <img src="https://views-counter.vercel.app/badge?pageId=LMG614&leftColor=000000&rightColor=0f0f0f&type=total&label=Visitantes&style=none" alt="Visitantes">
+  <a href="1">
+    <img src="https://img.shields.io/badge/C%C3%B3digo-Enigma-black?&logoColor=white&style=rounded" alt="Enigma">
   </a>
 </p>
 
