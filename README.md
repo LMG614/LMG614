@@ -28,6 +28,7 @@ cat <<EOF
 ==========================================
 
 [ Metodologias ]
+ - NIST SP 800-115
  - OWASP
  - MITRE ATT&CK
  - PTES
