@@ -56,7 +56,7 @@ EOF
 
 | PhantomLoad | NetScope |
 |:--------:|:--------:|
-| [![PhantomLoad](https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&hide_border=true&icon_color=4B0082)](https://github.com/LMG614/PhantomLoad) | [![NetScope](https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=NetScope&theme=dark&hide_border=true&icon_color=00BFFF)](https://github.com/LMG614/Care) |
+| [![PhantomLoad](https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&hide_border=true&icon_color=4B0082)](https://github.com/LMG614/PhantomLoad) | [![NetScope](https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=CARE&theme=dark&hide_border=true&icon_color=00BFFF)](https://github.com/LMG614/Care) |
 
 <br><br>
 <p align="center"><a href="https://lmg.red" title="Meu Portfólio"><img src="https://images.icon-icons.com/651/PNG/512/Icon_Business_Set_00007_A_icon-icons.com_59843.png" alt="Portfólio Logo" width="60" height="60"></a></p>
