@@ -31,8 +31,7 @@ cat <<EOF
  - PTES
 
 [ Linguagens ]
- - C, C++, Python, Bash
- - Go, Kotlin, ASM, Java
+ - C & Python
 
 [ Editor ]
  - Visual Studio Code
