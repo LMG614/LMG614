@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">🔍 Pesquisador de Segurança</h2>
-<p align="center">Pentester especializado no desenvolvimento de ferramentas personalizadas para auditoria e exploração de vulnerabilidades. Possui experiência prática em pós-exploração, evasão de EDRs e automação de reconhecimento. Conduz avaliações técnicas em ambientes corporativos com abordagem objetiva e alinhada aos objetivos do engajamento.</p>
+<p align="center">Pentester com experiência em desenvolvimento de ferramentas customizadas para auditoria e exploração de vulnerabilidades. Habilidade em pós-exploração, evasão de EDRs e automação de reconhecimento. Conduz avaliações técnicas em ambientes corporativos de forma objetiva e alinhada aos objetivos do cliente.</p>
 
 <p align="center">
   <a href="#">
@@ -30,10 +30,10 @@ PERFIL TÉCNICO
  - MITRE ATT&CK
 
 [  Linguagens  ]
- - C & Python
+ - C++ & Python
 
 [  Editor  ]
- - Visual Studio Code
+ - Visual Studio Codium
 
 [  Banco de Dados  ]
  - MySQL, SQLite, MongoDB
