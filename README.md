@@ -44,7 +44,7 @@ EOF
 
 <p align="center">
   <a href="https://github.com/LMG614">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMG614&layout=compact&theme=dark&hide_border=true&langs_count=6&locale=pt-br" alt="Top Languages LMG614">
+    <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=LMG614&layout=compact&theme=dark&hide_border=true&langs_count=6&locale=pt-br" alt="Top Languages LMG614">
   </a>
 </p>
 
@@ -52,7 +52,7 @@ EOF
 
 | PhantomLoad | NetScope |
 |:--------:|:--------:|
-| [![PhantomLoad](https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&hide_border=true&icon_color=4B0082)](https://github.com/LMG614/PhantomLoad) | [![4FUN](https://github-readme-stats.vercel.app/api/pin/?username=LMG614&repo=4FUN&theme=dark&hide_border=true&icon_color=00BFFF)](https://github.com/LMG614/4FUN) | 
+| [![PhantomLoad](https://readme-stats-fast.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&hide_border=true&icon_color=4B0082)](https://github.com/LMG614/PhantomLoad) | [![4FUN](https://readme-stats-fast.vercel.app/api/pin/?username=LMG614&repo=4FUN&theme=dark&hide_border=true&icon_color=00BFFF)](https://github.com/LMG614/4FUN) | 
 
 <br><br>
 <p align="center"><a href="https://lmg.red" title="Meu Portfólio"><img src="https://images.icon-icons.com/651/PNG/512/Icon_Business_Set_00007_A_icon-icons.com_59843.png" alt="Portfólio Logo" width="60" height="60"></a></p>
