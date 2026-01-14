@@ -1,12 +1,11 @@
-<h1 align="center">Olá!👋 Eu sou o LMG</h1>
+<h1 align="center">Olá!👋 Eu sou o LMG614</h1>
 
 <p align="center">
   <a href="https://lmg.red" target="_blank">🌐 Meu portfólio</a> •
   <a href="mailto:contato@lmg.red">✉️ Contato</a>
 </p>
 
-<h2 align="center">🔍 Pesquisador de Segurança</h2>
-<p align="center">Pentester com experiência em desenvolvimento de ferramentas customizadas para auditoria e exploração de vulnerabilidades. Habilidade em pós-exploração, evasão de EDRs e automação de reconhecimento. Conduz avaliações técnicas em ambientes corporativos de forma objetiva e alinhada aos objetivos do cliente.</p>
+<p align="center">Estudante de segurança da informação com aptidão em identificação e classificação de falhas, testes de intrusão em sistemas e redes, exploração de vulnerabilidades e avaliações técnicas em ambientes corporativos de forma objetiva e alinhada aos objetivos do cliente. Atua na consideração de riscos e impactos, elaboração de relatórios técnicos auditáveis, e possui experiência em linguagens de programação C++ e Python para a criação de exploits e análise de código em white-box, gray-box e black-box testing.</p>
 
 <p align="center">
   <a href="#">
