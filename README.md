@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o LMG614</h1>
+<img src="./assets/banner.png" alt="Metodologias" align="center">
 
 <div align="center">
   
@@ -59,7 +59,7 @@ Atuo na `análise de riscos` e impactos, `elaboração de relatórios técnicos 
 
 <p align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=LMG614&color=000000&style=for-the-badge&label=Visitantes&abbreviated=true" alt="Visitantes">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/LMG614.png" alt="LMG614 TryHackMe" />
   </a>
 </p>
 
@@ -81,7 +81,6 @@ Atuo na `análise de riscos` e impactos, `elaboração de relatórios técnicos 
   <a href="https://lmg.red">
     <img src="https://img.shields.io/badge/Meu-portfólio-FF0000?style=for-the-badge&labelColor=black" width="150px">
   </a>
-
   <a href="mailto:contato@lmg.red">
     <img src="https://img.shields.io/badge/Contate-me-black?style=for-the-badge&labelColor=FF0000" width="120px">
   </a>
