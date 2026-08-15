@@ -1,5 +1,3 @@
-<img src="./assets/banner.png" alt="Metodologias" align="center">
-
 <div align="center">
   
 Sou um estudante de `segurança da informação`, com aptidão em **identificação e classificação de falhas**, **testes de intrusão em sistemas e redes**, `exploração de vulnerabilidades` e **avaliações técnicas em ambientes corporativos**, de forma objetiva e alinhada aos **objetivos do cliente**.
