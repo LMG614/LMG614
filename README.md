@@ -68,9 +68,6 @@ Atuo na `análise de riscos` e impactos, `elaboração de relatórios técnicos 
 <div align="center">
 
   <div align="center">
-    <a href="https://github.com/LMG614/PhantomLoad">
-        <img width=410 src="https://readme-stats-fast.vercel.app/api/pin/?username=LMG614&repo=PhantomLoad&theme=dark&hide_border=true&icon_color=4B0082" />
-    </a>
     <a href="https://github.com/LMG614/4FUN">
         <img width=410 src="https://readme-stats-fast.vercel.app/api/pin/?username=LMG614&repo=4FUN&theme=dark&hide_border=true&icon_color=00BFFF" />
     </a>
